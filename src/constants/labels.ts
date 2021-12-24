@@ -13,7 +13,7 @@ export const LABELS = {
   REPAY_ACTION: "Repay",
   RESERVE_STATUS_TITLE: "Reserve Status & Configuration",
   AUDIT_WARNING:
-    "Dint is an unaudited software project used for internal purposes at the Solana Foundation. This app is not for public use.",
+    "",
   FOOTER:
     'Copyright © 2021. All Rights Reserved by Dint',
   MENU_HOME: "Home",

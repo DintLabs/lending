@@ -59,7 +59,7 @@ export const AppLayout = React.memo((props: any) => {
         layout="mix"
         fixSiderbar={true}
         primaryColor="#d83aeb"
-        logo={<div className="App-logo" />}
+        logo={<a href="https://dint.com"><div className="App-logo" /></a> }
         rightContentRender={() => <AppBar />}
         links={[]}
         menuContentRender={() => {
