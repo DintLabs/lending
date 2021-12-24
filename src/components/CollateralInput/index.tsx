@@ -13,7 +13,7 @@ import { useBalanceByCollateral } from "../../hooks/useBalanceByCollateral";
 
 const { Option } = Select;
 
-// User can choose a collateral they want to use, and then this will display the balance they have in Oyster's lending
+// User can choose a collateral they want to use, and then this will display the balance they have in Dint's lending
 // reserve for that collateral type.
 export default function CollateralInput(props: {
   title: string;

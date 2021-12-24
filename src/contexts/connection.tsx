@@ -27,8 +27,8 @@ export const ENDPOINTS = [
     endpoint: "https://solana-api.projectserum.com/",
   },
   {
-    name: "Oyster Dev" as ENV,
-    endpoint: "http://oyster-dev.solana.com/",
+    name: "Dint Dev" as ENV,
+    endpoint: "http://dint-dev.solana.com/",
   },
   {
     name: "Lending" as ENV,

@@ -146,35 +146,7 @@ export const AppLayout = React.memo((props: any) => {
                   </Link>
                 </Menu.Item>
               </Menu>
-              <Menu
-                theme={theme}
-                defaultSelectedKeys={[defaultKey]}
-                selectable={false}
-                mode="inline"
-                className="bottom-links"
-              >
-                <Menu.Item key="16" icon={<ForkOutlined />}>
-                  <a
-                    title="Fork"
-                    href={`${config.repository.url}/fork`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Fork
-                  </a>
-                </Menu.Item>
-                ,
-                <Menu.Item key="15" icon={<GithubOutlined />}>
-                  <a
-                    title="Gtihub"
-                    href={config.repository.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Github
-                  </a>
-                </Menu.Item>
-              </Menu>
+       
             </div>
           );
         }}

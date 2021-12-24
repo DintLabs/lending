@@ -13,9 +13,9 @@ export const LABELS = {
   REPAY_ACTION: "Repay",
   RESERVE_STATUS_TITLE: "Reserve Status & Configuration",
   AUDIT_WARNING:
-    "Oyster is an unaudited software project used for internal purposes at the Solana Foundation. This app is not for public use.",
+    "Dint is an unaudited software project used for internal purposes at the Solana Foundation. This app is not for public use.",
   FOOTER:
-    'This page was produced by the Solana Foundation ("SF") for internal educational and inspiration purposes only. SF does not encourage, induce or sanction the deployment, integration or use of Oyster or any similar application (including its code) in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use. Anyone using this code or a derivation thereof must comply with applicable laws and regulations when releasing related software.',
+    'Copyright © 2021. All Rights Reserved by Dint',
   MENU_HOME: "Home",
   MENU_DASHBOARD: "Dashboard",
   DASHBOARD_INFO: "Connect to a wallet to view your deposits/loans.",
@@ -30,11 +30,11 @@ export const LABELS = {
   MENU_FAUCET: "Faucet",
   MENU_TRANSACTION: "Transactions",
   MARGIN_TRADING: "Margin Trading",
-  APP_TITLE: "Oyster Lending",
+  APP_TITLE: "Dint Lending",
   CONNECT_BUTTON: "Connect",
   WALLET_TOOLTIP: "Wallet public key",
   WALLET_BALANCE: "Wallet balance",
-  OYSTER_BALANCE: "Oyster balance",
+  OYSTER_BALANCE: "Dint balance",
   SETTINGS_TOOLTIP: "Settings",
   SELECT_COLLATERAL: "Select collateral",
   COLLATERAL: "Collateral",
@@ -96,14 +96,14 @@ export const LABELS = {
     "Please choose how much of this asset you wish to purchase.",
   TABLE_TITLE_BUYING_POWER: "Total Buying Power",
   NOT_ENOUGH_MARGIN_MESSAGE:
-    "Not enough buying power in oyster to make this trade at this leverage.",
+    "Not enough buying power in dint to make this trade at this leverage.",
   SET_MORE_MARGIN_MESSAGE:
     "You need more margin to match this leverage amount to make this trade.",
   LEVERAGE_LIMIT_MESSAGE: "You will need more margin to make this trade.",
   NO_DEPOSIT_MESSAGE:
-    "You need to deposit coin of this type into oyster before trading with it on margin.",
+    "You need to deposit coin of this type into dint before trading with it on margin.",
   NO_ENOUGH_COLLATERAL_MESSAGE:
-    "The Collateral is greater than your Oyster Balance. The difference will be deposited first.",
+    "The Collateral is greater than your Dint Balance. The difference will be deposited first.",
   NO_COLL_TYPE_MESSAGE: "Choose Collateral CCY",
   SAFER: "Safer",
   RISKIER: "Riskier",
